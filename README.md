@@ -37,6 +37,7 @@
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html-logo"/>
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="ruby-logo"/>
 </p>
 
 ### 🛠️ Ferramentas e Frameworks
@@ -44,8 +45,10 @@
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="docker-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql-logo"/>
-  <img width = "48" src = "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*ZRqsmEf0gZU78oIu3j1xiA.png" alt = "Flutter"
-
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql-logo"/>
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="mysql-logo"/>
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux-logo"/>
+  <img width="48" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*ZRqsmEf0gZU78oIu3j1xiA.png" alt="flutter-logo"/>
 </p>
 
 ---
