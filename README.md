@@ -50,7 +50,7 @@ Aqui estão alguns dos projetos em que trabalhei:
 ## 📚 Formação Acadêmica
 
 - **🎓 Engenharia de Computação**  
-  Universidade XYZ (Ano de Conclusão: 20XX)
+  IFMT(Institudo Federal de Mato Grosso  (Ano de Conclusão: 2025)
 
 ---
 
@@ -60,7 +60,7 @@ Fique à vontade para entrar em contato comigo:
 
 - **🔗 LinkedIn**: [Rodrigo Henriky](https://www.linkedin.com/in/rodrigo-henriky/)  
 - **🐙 GitHub**: [rodrigohenriky](https://github.com/rhenriky)  
-- **📧 E-mail**: RHenriky@prontoameil.com  
+- **📧 E-mail**: RHenriky@prontonmail.com  
 
 ---
 
