@@ -1,6 +1,20 @@
 <h1 align="center">Rodrigo Henriky</h1>
 <p align="center"><i>Engenheiro de Computação | Desenvolvedor Full-Stack | Entusiasta de Tecnologias Emergentes</i></p>
 
+<p align="center" display="inline-block">
+  <img src="https://img.shields.io/github/languages/top/rhenriky/rhenriky" alt="top-language"/>
+  <img src="https://img.shields.io/github/languages/count/rhenriky/rhenriky.svg" alt="number-of-languages"/>
+  <a href="https://www.codacy.com/gh/rhenriky/rhenriky/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rhenriky/rhenriky&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/a148a172d5b6471098a0f0166b08e542"/></a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rhenriky/rhenriky.svg">
+  <a href="https://github.com/rhenriky/rhenriky/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rhenriky/rhenriky.svg">
+  </a>
+  <a href="https://github.com/rhenriky/rhenriky/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/rhenriky/rhenriky.svg">
+  </a>
+  <img alt="GitHub" src="https://img.shields.io/github/license/rhenriky/rhenriky.svg">
+</p>
+
 ---
 
 ## 📊 Estatísticas do GitHub
