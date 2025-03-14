@@ -19,8 +19,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhenriky&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenriky&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhenriky&show_icons=true&theme=dark&bg_color=0D1117&text_color=FFFFFF&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenriky&layout=compact&theme=dark&bg_color=0D1117&text_color=FFFFFF)
 
 ---
 
