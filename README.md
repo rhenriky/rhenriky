@@ -44,8 +44,9 @@
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="docker-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql-logo"/>
-  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/REST_API.png" alt="rest-api-logo"/>
-  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Flutter_logo.svg" alt="flutter-logo"/>
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/REST_API.png" alt="https://img.icons8.com/?size=100&id=21893&format=png&color=000000"/>
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Flutter_logo.svg" alt="![image](https://github.com/user-attachments/assets/a1357092-8d42-4187-8bc3-dca63086d0ac)
+"/>
 </p>
 
 ---
