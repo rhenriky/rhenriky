@@ -44,8 +44,8 @@
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="docker-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql-logo"/>
-  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/REST_API.png" alt="https://icons8.com/icon/21893/rest-api"/>
-  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Flutter_logo.svg" alt="https://icons8.com/icon/pCvIfmctRaY8/flutter"/>
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/REST_API.png" alt="rest-api-logo"/>
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Flutter_logo.svg" alt="flutter-logo"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ## 📚 Formação Acadêmica
 
 - **🎓 Engenharia de Computação**  
-  IFMT (Instituto Federal de Mato Grosso) - Conclusão em 2025
+  IFMT (Instituto Federal de Mato Grosso) - Conclusão em Andamento 
 
 ---
 
