@@ -44,6 +44,7 @@
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="docker-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql-logo"/>
+  <img width = "48" src = "https://cdn.prod.website-files.com/654366841809b5be271c8358/659efd7c0732620f1ac6a1d6_why_flutter_is_the_future_of_app_development%20(1).webp" alt = "Flutter
 
 </p>
 
