@@ -1,124 +1,125 @@
 <!--
-██████╗  ██████╗ ██████╗ ██████╗ ██╗ ██████╗  ██████╗ 
-██╔══██╗██╔═══██╗██╔══██╗██╔══██╗██║██╔════╝ ██╔═══██╗
-██████╔╝██║   ██║██║  ██║██████╔╝██║██║  ███╗██║   ██║
-██╔══██╗██║   ██║██║  ██║██╔══██╗██║██║   ██║██║   ██║
-██║  ██║╚██████╔╝██████╔╝██║  ██║██║╚██████╔╝╚██████╔╝
-╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝ 
-Welcome to my digital universe! 🚀                     
+🐍 RODRIGO HENRIKY - SNAKE DEVELOPER 🐍
+Transformando ideias em código, um pixel por vez!
 -->
 
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodrigo%20Henriky&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Animated Header with Snake Theme -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=180&section=header&text=Rodrigo%20Henriky&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Dynamic Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Engenheiro+de+Computação;💻+Desenvolvedor+Full-Stack;🦀+Rust+Enthusiast;🎮+Game+Developer"/>
-
-</div>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎮 **Jogue Snake Aqui Mesmo!** *(Sim, é jogável!)*
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/rhenriky/JogodaCobra/main/assets/snake-demo.gif" width="600" alt="Snake Game Demo"/>
-
-**[🎮 JOGAR SNAKE GAME](https://rhenriky.github.io/snake-web/)** | **[📱 Versão Mobile](https://rhenriky.github.io/snake-mobile/)** | **[⚡ Download Desktop](https://github.com/rhenriky/JogodaCobra/releases)**
-
-*Desenvolvido 100% em Rust 🦀 - Performance nativa!*
-</div>
-
----
-
-<!-- Animated Stats -->
-<div align="center">
-
-## 📊 **Live Coding Stats** *(Atualizado em tempo real)*
-
-<img src="https://github-readme-stats.vercel.app/api?username=rhenriky&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhenriky&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" height="180"/>
+<!-- Snake-themed Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🐍+Snake+Game+Developer;💻+Full-Stack+Engineer;🦀+Rust+Enthusiast;🎮+Performance+Focused"/>
 
 </div>
 
-<!-- Animated Contribution Graph -->
+<!-- Snake Separator -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+## 🐍 **Meu Snake Game - Jogue Agora!**
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhenriky&bg_color=0d1117&color=f85d7f&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://img.shields.io/badge/🐍%20Snake%20Game-Jogar%20Agora-DC2626?style=for-the-badge&logo=rust&logoColor=white" alt="Play Snake Game"/>
+
+**[🎮 JOGAR SNAKE GAME](https://github.com/rhenriky/JogodaCobra)** | **[📱 Download](https://github.com/rhenriky/JogodaCobra/releases)**
+
+*Desenvolvido 100% em Rust 🦀 - Com velocidade progressiva e obstáculos!*
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rhenriky&repo=JogodaCobra&theme=blue-green&title_color=3B82F6&icon_color=DC2626&text_color=FFFFFF&bg_color=0D1117"/>
 </div>
 
 ---
 
-## 🛠️ **Arsenal Tecnológico** *(Hover para ver detalhes!)*
+<!-- Snake-themed Stats -->
+<div align="center">
+
+## 📊 **Stats da Cobra** *(Como uma cobra, sempre crescendo!)*
+
+<img src="https://github-readme-stats.vercel.app/api?username=rhenriky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=DC2626&text_color=FFFFFF&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhenriky&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" height="180"/>
+
+</div>
+
+<!-- Snake Contribution Graph -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhenriky&bg_color=0d1117&color=dc2626&line=3b82f6&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+**🐍 Como uma cobra, meus commits crescem continuamente!**
+</div>
+
+---
+
+## 🛠️ **Arsenal da Cobra** *(Ferramentas que uso para "engolir" problemas)*
 
 <div align="center">
 
-### 🦀 **Rust Ecosystem**
-<img src="https://skillicons.dev/icons?i=rust,wasm" />
-<img alt="Tokio" src="https://img.shields.io/badge/Tokio-000?style=for-the-badge&logo=rust&logoColor=white"/>
-<img alt="Actix" src="https://img.shields.io/badge/Actix-000?style=for-the-badge&logo=rust&logoColor=white"/>
-<img alt="Serde" src="https://img.shields.io/badge/Serde-000?style=for-the-badge&logo=rust&logoColor=white"/>
+### 🐍 **Linguagem Principal - Rust** 
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=DC2626"/>
+<img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=DC2626"/>
+<img src="https://img.shields.io/badge/Crossterm-000000?style=for-the-badge&logo=rust&logoColor=3B82F6"/>
 
-### 💻 **Core Languages**
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,dart,go" />
+### 💻 **Stack Principal**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-DC2626?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-3B82F6?style=for-the-badge&logo=dart&logoColor=white"/>
 
 ### 🚀 **Frameworks & Tools**
-<img src="https://skillicons.dev/icons?i=react,flutter,nodejs,docker,kubernetes,aws,firebase,postgres" />
-
-### 🧰 **DevOps & Cloud**
-<img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,jenkins,terraform,ansible" />
+<img src="https://img.shields.io/badge/Flutter-3B82F6?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🎯 **Projetos Inovadores** *(Com demos ao vivo!)*
+## 🐍 **Projetos da Cobra** *(Cada um mais desafiador que o anterior!)*
 
 <table>
 <tr>
 <td width="50%">
 
-### 🐍 **Snake Game Engine** 
+### 🐍 **Snake Game Engine - Rust** 
 <img src="https://img.shields.io/github/stars/rhenriky/JogodaCobra?style=social" />
+<img src="https://img.shields.io/badge/Rust-DC2626?style=flat&logo=rust&logoColor=white" />
 
-**Jogo da cobrinha next-gen em Rust**
-- ⚡ **60+ FPS** garantidos
-- 🎨 **Shaders customizados**
-- 🔄 **Multiplayer online**
-- 📱 **Cross-platform**
-- 🎵 **Sistema de som**
+**O jogo da cobra mais avançado que você já viu!**
+- ⚡ **Velocidade progressiva** - fica mais rápido!
+- 📦 **Obstáculos aleatórios** - evite as caixas!
+- 🧱 **Paredes sólidas** - sem atravessar bordas!
+- 🔄 **Sistema restart** - pressione R e jogue novamente!
+- 🎨 **Interface colorida** - visual moderno no terminal
 
 ```rust
-fn main() {
-    let mut game = SnakeGame::new();
-    game.run_with_innovation();
+// A filosofia da cobra
+fn snake_wisdom() -> &'static str {
+    "Cresça devagar, mas nunca pare!"
 }
 ```
-
-**[🚀 Demo Ao Vivo](https://snake-demo.rhenriky.dev)**
 
 </td>
 <td width="50%">
 
-### 🤖 **AI Code Assistant**
-<img src="https://img.shields.io/badge/GPT--4-Powered-green?style=social&logo=openai" />
+### 🤖 **Portfolio Projects**
+<img src="https://img.shields.io/badge/Status-Active-3B82F6?style=flat" />
 
-**Assistente de código com IA**
-- 🧠 **Machine Learning**
-- 💬 **NLP avançado**
-- 🔍 **Code analysis**
-- ⚡ **Real-time suggestions**
+**Outros projetos importantes:**
+- 📱 **App Flutter** - Gerenciamento de tarefas
+- 🐍 **Scripts Python** - Automação empresarial  
+- 🌐 **Sites Web** - Portfolio e landing pages
+- 🛠️ **Ferramentas CLI** - Utilitários em Rust
 
 ```python
-assistant = AICodeHelper()
-result = assistant.optimize_code(
-    language="rust",
-    focus="performance"
-)
+# Como uma cobra Python
+def grow_skills():
+    while True:
+        learn_new_tech()
+        build_projects()
+        share_knowledge()
 ```
-
-**[🤖 Testar Agora](https://ai-assistant.rhenriky.dev)**
 
 </td>
 </tr>
@@ -126,140 +127,140 @@ result = assistant.optimize_code(
 
 ---
 
-## 🏆 **Achievement System** *(Desbloqueando conquistas!)*
+## 🏆 **Conquistas da Cobra** *(Níveis desbloqueados!)*
 
 <div align="center">
 
-| 🏅 **Conquistado** | 🎯 **Meta** | 📊 **Progresso** |
+| 🐍 **Nível** | 🎯 **Conquista** | 📊 **Progresso** |
 |---|---|---|
-| 🦀 **Rust Master** | 1000+ commits | ![Progress](https://progress-bar.dev/85/?title=850/1000&width=200) |
-| ⭐ **Open Source Hero** | 50 PRs aceitos | ![Progress](https://progress-bar.dev/60/?title=30/50&width=200) |
-| 🎮 **Game Developer** | 5 jogos publicados | ![Progress](https://progress-bar.dev/40/?title=2/5&width=200) |
-| 🚀 **Performance Ninja** | Sub-1ms responses | ![Progress](https://progress-bar.dev/100/?title=Complete!&width=200&color=00ff00) |
+| 🦀 **Rust Master** | Dominar system programming | ![Progress](https://img.shields.io/badge/Progress-85%25-3B82F6?style=flat) |
+| 🐍 **Snake Developer** | Criar jogos incríveis | ![Progress](https://img.shields.io/badge/Progress-100%25-DC2626?style=flat) |
+| ⭐ **Open Source** | Contribuições públicas | ![Progress](https://img.shields.io/badge/Progress-60%25-3B82F6?style=flat) |
+| 🚀 **Performance** | Código ultra-rápido | ![Progress](https://img.shields.io/badge/Progress-95%25-DC2626?style=flat) |
 
 </div>
 
 ---
 
-## 📈 **Roadmap de Aprendizado 2024-2025**
-
-<div align="center">
+## 📈 **Roadmap da Cobra 2024-2025**
 
 ```mermaid
-timeline
-    title Jornada de Desenvolvimento
+graph TD
+    A[🐍 Snake Game] --> B[🕸️ Web Assembly]
+    B --> C[🤖 AI Integration]
+    C --> D[🌐 Multiplayer Online]
+    D --> E[📱 Mobile Version]
+    E --> F[🎮 Game Engine]
     
-    Q4 2024 : Sistema Embarcados
-            : WebAssembly Master
-            : Blockchain Development
-    
-    Q1 2025 : Machine Learning
-            : Computer Vision
-            : Neural Networks
-    
-    Q2 2025 : Quantum Computing
-            : Cloud Architecture
-            : DevOps Advanced
+    style A fill:#DC2626,stroke:#3B82F6,color:#fff
+    style B fill:#3B82F6,stroke:#DC2626,color:#fff
+    style C fill:#DC2626,stroke:#3B82F6,color:#fff
+    style D fill:#3B82F6,stroke:#DC2626,color:#fff
+    style E fill:#DC2626,stroke:#3B82F6,color:#fff
+    style F fill:#3B82F6,stroke:#DC2626,color:#fff
 ```
-
-</div>
 
 ---
 
-## 🎵 **Coding Playlist** *(Música atual)*
+## 🎵 **Soundtrack da Cobra** *(Música para codar)*
 
 <div align="center">
 
-[![Spotify](https://spotify-now-playing.rhenriky.vercel.app/api/spotify-playing)](https://open.spotify.com/user/rodrigohenriky)
+[![Spotify](https://img.shields.io/badge/Spotify-Coding%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rodrigohenriky)
 
-*🎧 Codando com: Synthwave, Lo-fi Hip Hop, Epic Music*
+*🎧 Lo-fi Hip Hop • Synthwave • Game Music*
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=rodrigohenriky&count=3&width=400" />
 
 </div>
 
 ---
 
-## 🌟 **Easter Egg Zone** *(Desenvolvedores curiosos!)*
+## 🐍 **Snake Secrets** *(Para desenvolvedores curiosos)*
 
 <details>
-<summary>🔍 Clique aqui para revelar segredos...</summary>
+<summary>🔍 Clique para revelar os segredos da cobra...</summary>
 
-### 🎮 **Mini Game no Terminal**
+### 🎮 **Comandos Secretos do Snake Game**
 ```bash
-curl -s https://rhenriky.dev/easter-egg | bash
+# Easter eggs no jogo
+# Pressione durante o jogo:
+# K - Modo Kamikaze (velocidade máxima)
+# G - God Mode (atravessa obstáculos) 
+# R - Restart
+# Q - Quit
 ```
 
-### 🦀 **Código Rust do Dia**
+### 🐍 **Snake Code Poetry**
 ```rust
-// Rust wisdom of the day
-fn life_philosophy() -> &'static str {
-    "Se compila, está funcionando! 🚀"
+struct Snake {
+    body: Vec<Position>,
+    wisdom: &'static str,
+}
+
+impl Snake {
+    fn philosophy(&self) -> &str {
+        "Uma cobra não olha para trás,
+         apenas cresce em direção ao futuro 🐍"
+    }
 }
 ```
 
-### 🔢 **Stats Secretas**
-- ☕ **Café consumido:** 2.847 xícaras
-- 🐛 **Bugs encontrados:** 1.337
-- 💡 **Ideias por minuto:** 42
-- 🎯 **Taxa de sucesso:** 99.9%
-
-### 🎨 **ASCII Art Signature**
-```
-    ____  __  ______   _   ____  ____  __ __ 
-   / __ \/ / / / __ \ | | / / / / / _ \/ // / 
-  / /_/ / /_/ / /_/ / | |/ / /_/ /  __/ // /_
- / .___/\____/\____/  |___/\____/\___/__  __/
-/_/                                   /_/   
-```
+### 📊 **Stats Secretas**
+- 🐍 **Cobras criadas:** 42
+- ☕ **Café para codar:** 1.337 xícaras
+- 🎯 **Bugs eliminados:** 999+
+- 🚀 **Commits da cobra:** ∞
 
 </details>
 
 ---
 
-## 🤝 **Conectar & Colaborar**
+## 🤝 **Conecte-se com a Cobra**
 
 <div align="center">
 
-<!-- Animated contact cards -->
 <a href="https://linkedin.com/in/rodrigo-henriky">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:RHenriky@protonmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+<img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/rhenriky">
-<img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2"/>
+<a href="https://github.com/rhenriky/JogodaCobra">
+<img src="https://img.shields.io/badge/Snake_Game-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://rhenriky.dev">
-<img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722"/>
+<img src="https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 💡 **Philosophy.rs**
+## 🐍 **Snake.Philosophy()** 
 
 <div align="center">
 
 ```rust
-impl Developer for RodrigoHenriky {
-    fn mindset(&self) -> Vec<&str> {
+impl SnakeDeveloper for RodrigoHenriky {
+    fn core_beliefs(&self) -> Vec<&str> {
         vec![
-            "🚀 Performance é arte",
-            "🔧 Código limpo é código feliz",
-            "🌱 Sempre learning, sempre growing",
-            "🤝 Community over competition",
-            "⚡ Innovation through iteration"
+            "🐍 Como uma cobra: crescer continuamente",
+            "🎯 Foco no objetivo, como cobra caçando",  
+            "⚡ Performance é fundamental",
+            "🔧 Código limpo e elegante",
+            "🌱 Sempre aprendendo, sempre evoluindo"
         ]
     }
     
-    fn current_mood(&self) -> Mood {
-        Mood::ExcitedToBuild { 
-            next_project: "Quantum Snake Game",
-            coffee_level: Maximum 
+    fn current_state(&self) -> State {
+        State::Coding { 
+            project: "Next Snake Innovation",
+            energy: Maximum,
+            coffee_level: Critical 
         }
     }
 }
@@ -269,18 +270,17 @@ impl Developer for RodrigoHenriky {
 
 ---
 
-<!-- Footer with particles effect -->
+<!-- Snake Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=100&section=footer"/>
 
-### ⚡ **"Coding the future, one commit at a time"** ⚡
+### 🐍 **"Como uma cobra, transformo desafios em crescimento"** 🐍
 
-<img src="https://komarev.com/ghpvc/?username=rhenriky&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=rhenriky&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
 
-**🌟 Obrigado por visitar meu universo digital! 🌟**
+**🔥 Obrigado por visitar o universo da cobra! 🔥**
+
+*Uma cobra não anda para trás, apenas cresce! 🚀*
 
 </div>
-
-<!-- Hidden tracking pixel -->
-<img src="https://api.rhenriky.dev/track/github-profile" width="1" height="1" />
