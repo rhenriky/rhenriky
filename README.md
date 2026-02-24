@@ -8,12 +8,10 @@
 
 # Olá, eu sou Rodrigo Henriky! 👋
 
-<div align="center">
-  
-  🎓 **Engenheiro de Computação** | 📍 **Cuiabá - MT** | 💻 **Full Stack Developer**
-  🎓 ***Computer Engineer*** | 📍 ***Cuiabá - MT, Brazil*** | 💻 ***Full Stack Developer***
-  
-</div>
+<p align="center">
+🎓 **Engenheiro de Computação** | 📍 **Cuiabá - MT** | 💻 **Full Stack Developer**  
+🎓 ***Computer Engineer*** | 📍 ***Cuiabá - MT, Brazil*** | 💻 ***Full Stack Developer***
+</p>
 
 ## 🧑‍💻 Sobre mim
 
